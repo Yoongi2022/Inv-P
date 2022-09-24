@@ -42,7 +42,7 @@ function setup() {
 
 function draw() {
   background(189);
-  image(backgroundImg, 0, 0, width, heigth);
+  image(backgroundImg, 0, 0, width, height);
 
  
 
